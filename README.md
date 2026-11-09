@@ -1,5 +1,7 @@
 # Quasar App (fitnation)
 
+#članovi tima: Paolo Gašparović, Narotam Bilić, Dominik Spajić
+
 ## Install the dependencies
 
 ```bash
