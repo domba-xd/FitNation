@@ -1,6 +1,6 @@
 # Quasar App (fitnation)
 
-#članovi tima: Paolo Gašparović, Narotam Bilić, Dominik Spajić
+#članovi tima: Paolo Gašparović, Narotam Bilić, Dominik Spajić, Petar Miketa
 #Opis teme: FitNation - interaktivna aplikacija za lakše i efikasnije korištenje fitness centara i njihovih ponuda te pomoć za bolji korisnički fitness put.
 
 ## Install the dependencies
